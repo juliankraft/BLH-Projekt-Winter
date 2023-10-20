@@ -1,0 +1,104 @@
+# Visual Studio Code
+.vscode/
+*.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+*.nbconvert.ipynb
+*.nbformat.json
+*.nbsignatures.db
+*.nbvcxproj
+*.sas7bdat
+*.sas7bcat
+*.sas7bndx
+*.sas7bdmd
+*.sas7bpgm
+*.sas7bvew
+*.sas7bmap
+*.sas7bdat.xml
+*.sas7bcat.xml
+*.sas7bndx.xml
+*.sas7bdmd.xml
+*.sas7bpgm.xml
+*.sas7bvew.xml
+*.sas7bmap.xml
+*.sas7bdat.lst
+*.sas7bcat.lst
+*.sas7bndx.lst
+*.sas7bdmd.lst
+*.sas7bpgm.lst
+*.sas7bvew.lst
+*.sas7bmap.lst
+*.sas7bdat.sas
+*.sas7bcat.sas
+*.sas7bndx.sas
+*.sas7bdmd.sas
+*.sas7bpgm.sas
+*.sas7bvew.sas
+*.sas7bmap.sas
+*.sas7bdat.sas7bdat
+*.sas7bcat.sas7bcat
+*.sas7bndx.sas7bndx
+*.sas7bdmd.sas7bdmd
+*.sas7bpgm.sas7bpgm
+*.sas7bvew.sas7bvew
+*.sas7bmap.sas7bmap
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.pyc
+*.pyo
+__pycache__/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
