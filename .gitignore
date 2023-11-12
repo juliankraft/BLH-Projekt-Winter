@@ -8,7 +8,6 @@
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 *.nbconvert.ipynb
 *.nbformat.json
 *.nbsignatures.db
