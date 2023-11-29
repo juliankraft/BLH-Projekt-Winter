@@ -7,7 +7,7 @@ Institut für Umwelt und natürliche Ressourcen
 Praxisauftrag Grundlagen Biologische Landwirtschaft und Hortikultur 2
 
 von: <br>
-Chloé Diethelm, Lynda Forster, Michelle Glöckner, Julian Kraft, Rebekka Schüttel, 
+Chloé Diethelm, Lynda Forster, Michelle Glöckner, Julian Kraft, Rebekka Schüttel 
 
 Bachelorstudiengang 2022 <br>
 Umweltingenieurwesen <br>
